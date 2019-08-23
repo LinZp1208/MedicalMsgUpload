@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  base64Tool.cpp
+  FileUpload.cpp
+  FileUploadDlg.cpp
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(430): warning C4244: “参数”: 从“curl_off_t”转换到“short”，可能丢失数据
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(431): warning C4244: “参数”: 从“curl_off_t”转换到“int”，可能丢失数据
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(553): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(725): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(802): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\uphttp\linmedicmsgupgo\fileupload\fileuploaddlg.cpp(815): warning C4101: “res”: 未引用的局部变量
+  RSA.cpp
+  正在生成代码...
+    正在创建库 G:\UPHTTP\LinMedicMsgUpGo\x64\Debug\FileUpload.lib 和对象 G:\UPHTTP\LinMedicMsgUpGo\x64\Debug\FileUpload.exp
+  FileUpload.vcxproj -> G:\UPHTTP\LinMedicMsgUpGo\x64\Debug\FileUpload.exe
